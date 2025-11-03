@@ -1,4 +1,3 @@
-# Marketing_Analytics_Dashboard
 
 📈 **Marketing Analytics Dashboard: A Power BI Dashboard Guide**
 
