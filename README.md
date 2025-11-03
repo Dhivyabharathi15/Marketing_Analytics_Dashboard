@@ -2,7 +2,7 @@
 
 📈 **Marketing Analytics Dashboard: A Power BI Dashboard Guide**
 
-** Overview**
+**Overview**
 
 This repository contains the resources and Power BI file for building a comprehensive Marketing Analytics Dashboard.
 The dashboard provides actionable insights into campaign performance, audience behavior, spending trends, and video engagement metrics.
